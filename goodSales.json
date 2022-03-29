@@ -1,0 +1,322 @@
+{
+	"goodSales": [
+		{"mans": [
+					{
+						"key": "1",
+						"img": "../assets/images/products/mens_1.jpg",
+						"description": "New Men's Sweater Cardigans Winter Warm Hooded Sweatearcoat Men Causal Knitwear Jackets Coats Mens Knitted Cardigans Clothes",
+						"material": "spandex",
+						"color": "black",
+						"price": "20",
+						"for": "mans",
+						"popul": "72",
+						"type": "cardigan", 
+						"season": "winter"
+					},
+					{
+						"key": "2",
+						"img": "../assets/images/products/mens_2.webp",
+						"description": "Trendyol Men's Regular Fit Cycling Collar Striped Knitwear Sweater TMNAW22KZ0632",
+						"material": "coton",
+						"color": "brown",
+						"price": "10",
+						"for": "mans",
+						"popul": "65",
+						"type": "sweater", 
+						"season": "winter"
+					},
+					{
+						"key": "3",
+						"img": "../assets/images/products/mens_3.webp",
+						"description": "Trendyol Male Slim Fit Bike Collar Basic Sweater TMNAW22KZ2843",
+						"material": "coton",
+						"color": "red",
+						"price": "8",
+						"for": "mans",
+						"popul": "50",
+						"type": "sweater", 
+						"season": "winter"
+					},
+										{
+						"key": "4",
+						"img": "../assets/images/products/mens_4.jpeg",
+						"description": "Trendyol Male Bike Collar Regular Fit Geometric Panelli Knitwear Sweater TMNAW22KZ1285",
+						"material": "poliester",
+						"color": "grey",
+						"price": "12",
+						"for": "mans",
+						"popul": "55",
+						"type": "sweater", 
+						"season": "winter"
+					},
+					{	
+						"key": "5",
+						"img": "../assets/images/products/mens_5.webp",
+						"description": "Jean Homme Men Jeans Skinny Slim Fit Black Blue Denim Spijkerbroeken Heren Biker Stretch Pants Trousers Casual Distressed",
+						"material": "texas",
+						"color": "blue",
+						"price": "18",
+						"for": "mans",
+						"popul": "41",
+						"type": "jeans", 
+						"season": "winter"
+					},
+					{	
+						"key": "6",
+						"img": "../assets/images/products/mens_6.jpg",
+						"description": "Men Stretchy Ripped Skinny Biker Embroidery Cartoon Print Jeans Destroyed Hole Slim Fit Denim High Quality Hip Hop Black Jeans",
+						"material": "poliester",
+						"color": "white",
+						"price": "15",
+						"for": "mans",
+						"popul": "62",
+						"type": "jeans", 
+						"season": "winter"
+					},				
+					{	
+						"key": "7",
+						"img": "../assets/images/products/mens_7.jpg",
+						"description": "Good Quality Black gray blue Skinny Jeans Men Spring Summer Slim Fit Denim Jeans Men Cotton Stretch Denim Pants Cowboy Trousers",
+						"material": "poliester",
+						"color": "black",
+						"price": "11",
+						"for": "mans",
+						"popul": "58",
+						"type": "jeans", 
+						"season": "winter"
+					},		
+					{	
+						"key": "8",
+						"img": "../assets/images/products/mens_8.jpg",
+						"description": "Men Winter Parkas Down Coat Solid Hooded Cotton Coat Jacket Detachable Hat Padded Cardigan Drawstring Winter Streetwear",
+						"material": "poliester",
+						"color": "black",
+						"price": "20",
+						"for": "mans",
+						"popul": "80",
+						"type": "jacket", 
+						"season": "winter"
+					},
+					{	
+						"key": "9",
+						"img": "../assets/images/products/mens_9.webp",
+						"description": "Men Brand New Causal Vintage Leather Jacket Coat Men Spring Outfit Design Motor Biker Pocket Pu Leather Jacket Men M-4Xl",
+						"material": "leather",
+						"color": "black",
+						"price": "50",
+						"for": "mans",
+						"popul": "85",
+						"type": "jacket", 
+						"season": "winter"
+					},
+					{	
+						"key": "10",
+						"img": "../assets/images/products/mens_10.webp",
+						"description": "Spring Casual Mens Jackets Plus Size 5XL jaqueta masculina Sportswear Bomber Jacket Mandarin Collar Jacket homme Slim Fit",
+						"material": "leather",
+						"color": "green",
+						"price": "52",
+						"for": "mans",
+						"popul": "87",
+						"type": "jacket", 
+						"season": "winter"
+					},					
+					{	
+						"key": "11",
+						"img": "../assets/images/products/mens_11.webp",
+						"description": "Summer Fashion Men/Women 3D Printing Dark Evil Clown Pattern T-Shirt Street Personality Trend Wild Loose Oversized Short-Sleeved",
+						"material": "coton",
+						"color": "yellow",
+						"price": "3",
+						"for": "mans",
+						"popul": "44",
+						"type": "t-shirt", 
+						"season": "summer"
+					},
+					{	
+						"key": "12",
+						"img": "../assets/images/products/mens_12.webp",
+						"description": "Summer Fashion Men/Women 3D Printing Dark Evil Clown Pattern T-Shirt Street Personality Trend Wild Loose Oversized Short-Sleeved",
+						"material": "coton",
+						"color": "navy",
+						"price": "4",
+						"for": "mans",
+						"popul": "46",
+						"type": "t-shirt", 
+						"season": "summer"
+					},								
+					{	
+						"key": "13",
+						"img": "../assets/images/products/mens_13.webp",
+						"description": "Summer thin section loose hundred short-sleeved men fashion gradient series of teenagers printed round neck T-shirt",
+						"material": "coton",
+						"color": "blue",
+						"price": "3",
+						"for": "mans",
+						"popul": "26",
+						"type": "t-shirt", 
+						"season": "summer"
+					},
+					{	
+						"key": "14",
+						"img": "../assets/images/products/mens_14.webp",
+						"description": "New summer men's 3D print pattern T-shirt loose casual clothes short-sleeved fashion trend round neck tops",
+						"material": "coton",
+						"color": "red",
+						"price": "3",
+						"for": "mans",
+						"popul": "30",
+						"type": "t-shirt", 
+						"season": "summer"
+					},
+					{	
+						"key": "15",
+						"img": "../assets/images/products/mens_15.webp",
+						"description": "Summer hot sale Castrol retro short-sleeved men's T-shirt 3D printing ethnic alphabet Harajuku fashion T-shirt men's collar top",
+						"material": "coton",
+						"color": "green",
+						"price": "3",
+						"for": "mans",
+						"popul": "36",
+						"type": "t-shirt", 
+						"season": "summer"
+					},
+										{	
+						"key": "16",
+						"img": "../assets/images/products/mens_16.webp",
+						"description": "Direct Deal USSTOCK Mens Summer Shorts Gym Sport Running Workout Cargo Pants Jogger Trousers",
+						"material": "poliester",
+						"color": "beige",
+						"price": "10",
+						"for": "mans",
+						"popul": "34",
+						"type": "shorts", 
+						"season": "summer"
+					},																													
+					{	
+						"key": "17",
+						"img": "../assets/images/products/mens_17.webp",
+						"description": "2022 Summer Casual Shorts Solid Color Letters Multi-Pocket Fashion Men Work Shorts Plus Size Beach Cargo Shorts M-7Xl",
+						"material": "poliester",
+						"color": "black",
+						"price": "8",
+						"for": "mans",
+						"popul": "32",
+						"type": "shorts", 
+						"season": "summer"
+					},
+					{	
+						"key": "18",
+						"img": "../assets/images/products/mens_18.webp",
+						"description": "White Shorts Men Japanese Style Polyester Running Sport Shorts for Men Casual Summer Elastic Waist Solid Shorts Printed Clothing",
+						"material": "poliester",
+						"color": "white",
+						"price": "11",
+						"for": "mans",
+						"popul": "52",
+						"type": "shorts", 
+						"season": "summer"
+					},
+					{	
+						"key": "19",
+						"img": "../assets/images/products/mens_19.webp",
+						"description": "Trendyol Men 'S Regular Fit Shorts & Bermuda TMNSS21SR0046",
+						"material": "poliester",
+						"color": "grey",
+						"price": "9",
+						"for": "mans",
+						"popul": "55",
+						"type": "shorts", 
+						"season": "summer"
+					},
+					{	
+						"key": "20",
+						"img": "../assets/images/products/mens_20.jpg",
+						"description": "Men's Summer Breeches Shorts 2021 Cotton Casual Bermudas Black Men Boardshorts Homme Classic Brand Clothing Beach Shorts Male",
+						"material": "coton",
+						"color": "grey",
+						"price": "15",
+						"for": "mans",
+						"popul": "80",
+						"type": "shorts", 
+						"season": "summer"
+					}														
+											
+				]
+		},
+		{"women": [
+					{
+						"key": "34",
+						"img": "Images/products/women_1.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Crna",
+						"price": "400",
+						"for": "women",
+						"popul": "76"
+					},
+					{
+						"key": "35",
+						"img": "Images/products/women_2.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Tamno Zelena",
+						"price": "400",
+						"for": "women",
+						"popul": "75"
+					},
+					{
+						"key": "36",
+						"img": "Images/products/women_3.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Crvena",
+						"price": "400",
+						"for": "women",
+						"popul": "78"
+					},
+					{
+						"key": "37",
+						"img": "Images/products/women_4.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Bela",
+						"price": "400",
+						"for": "women",
+						"popul": "80"
+					},
+					{
+						"key": "38",
+						"img": "Images/products/women_5.jpg",
+						"description": "Ženska marama u vise dezena",
+						"material": "Poliester",
+						"color": "Sarena",
+						"price": "400",
+						"for": "women",
+						"popul": "71"
+					},
+					{
+						"key": "39",
+						"img": "Images/products/women_6.jpg",
+						"description": "Ženska marama u vise dezena",
+						"material": "Poliester",
+						"color": "Sarena",
+						"price": "400",
+						"for": "women",
+						"popul": "75"
+					},
+					{
+						"key": "40",
+						"img": "Images/products/women_7.jpg",
+						"description": "Ženska marama u vise dezena",
+						"material": "Poliester",
+						"color": "Sarena",
+						"price": "400",
+						"for": "women",
+						"popul": "70"
+					}
+				]
+		}
+	]
+
+}
