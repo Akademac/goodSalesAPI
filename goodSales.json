@@ -3,7 +3,7 @@
 		{"mans": [
 					{
 						"key": "1",
-						"img": "/static/media/mens_1.jpg",
+						"img": "../assets/images/products/mens_1.jpg",
 						"description": "New Men's Sweater Cardigans Winter Warm Hooded Sweatearcoat Men Causal Knitwear Jackets Coats Mens Knitted Cardigans Clothes",
 						"material": "spandex",
 						"color": "black",
@@ -15,7 +15,7 @@
 					},
 					{
 						"key": "2",
-						"img": "/static/media/mens_2.webp",
+						"img": "../assets/images/products/mens_2.webp",
 						"description": "Trendyol Men's Regular Fit Cycling Collar Striped Knitwear Sweater TMNAW22KZ0632",
 						"material": "coton",
 						"color": "brown",
@@ -27,7 +27,7 @@
 					},
 					{
 						"key": "3",
-						"img": "/static/media/mens_3.webp",
+						"img": "../assets/images/products/mens_3.webp",
 						"description": "Trendyol Male Slim Fit Bike Collar Basic Sweater TMNAW22KZ2843",
 						"material": "coton",
 						"color": "red",
@@ -39,7 +39,7 @@
 					},
 										{
 						"key": "4",
-						"img": "/static/media/mens_4.jpeg",
+						"img": "../assets/images/products/mens_4.jpeg",
 						"description": "Trendyol Male Bike Collar Regular Fit Geometric Panelli Knitwear Sweater TMNAW22KZ1285",
 						"material": "poliester",
 						"color": "grey",
@@ -51,7 +51,7 @@
 					},
 					{	
 						"key": "5",
-						"img": "/static/media/mens_5.webp",
+						"img": "../assets/images/products/mens_5.webp",
 						"description": "Jean Homme Men Jeans Skinny Slim Fit Black Blue Denim Spijkerbroeken Heren Biker Stretch Pants Trousers Casual Distressed",
 						"material": "texas",
 						"color": "blue",
@@ -63,7 +63,7 @@
 					},
 					{	
 						"key": "6",
-						"img": "/static/media/mens_6.jpg",
+						"img": "../assets/images/products/mens_6.jpg",
 						"description": "Men Stretchy Ripped Skinny Biker Embroidery Cartoon Print Jeans Destroyed Hole Slim Fit Denim High Quality Hip Hop Black Jeans",
 						"material": "poliester",
 						"color": "white",
@@ -75,7 +75,7 @@
 					},				
 					{	
 						"key": "7",
-						"img": "/static/media/mens_7.jpg",
+						"img": "../assets/images/products/mens_7.jpg",
 						"description": "Good Quality Black gray blue Skinny Jeans Men Spring Summer Slim Fit Denim Jeans Men Cotton Stretch Denim Pants Cowboy Trousers",
 						"material": "poliester",
 						"color": "black",
@@ -87,7 +87,7 @@
 					},		
 					{	
 						"key": "8",
-						"img": "/static/media/mens_8.jpg",
+						"img": "../assets/images/products/mens_8.jpg",
 						"description": "Men Winter Parkas Down Coat Solid Hooded Cotton Coat Jacket Detachable Hat Padded Cardigan Drawstring Winter Streetwear",
 						"material": "poliester",
 						"color": "black",
@@ -99,7 +99,7 @@
 					},
 					{	
 						"key": "9",
-						"img": "/static/media/mens_9.webp",
+						"img": "../assets/images/products/mens_9.webp",
 						"description": "Men Brand New Causal Vintage Leather Jacket Coat Men Spring Outfit Design Motor Biker Pocket Pu Leather Jacket Men M-4Xl",
 						"material": "leather",
 						"color": "black",
@@ -111,7 +111,7 @@
 					},
 					{	
 						"key": "10",
-						"img": "/static/media/mens_10.webp",
+						"img": "../assets/images/products/mens_10.webp",
 						"description": "Spring Casual Mens Jackets Plus Size 5XL jaqueta masculina Sportswear Bomber Jacket Mandarin Collar Jacket homme Slim Fit",
 						"material": "leather",
 						"color": "green",
@@ -123,7 +123,7 @@
 					},					
 					{	
 						"key": "11",
-						"img": "/static/media/mens_11.webp",
+						"img": "../assets/images/products/mens_11.webp",
 						"description": "Summer Fashion Men/Women 3D Printing Dark Evil Clown Pattern T-Shirt Street Personality Trend Wild Loose Oversized Short-Sleeved",
 						"material": "coton",
 						"color": "yellow",
@@ -135,7 +135,7 @@
 					},
 					{	
 						"key": "12",
-						"img": "/static/media/mens_12.webp",
+						"img": "../assets/images/products/mens_12.webp",
 						"description": "Summer Fashion Men/Women 3D Printing Dark Evil Clown Pattern T-Shirt Street Personality Trend Wild Loose Oversized Short-Sleeved",
 						"material": "coton",
 						"color": "navy",
@@ -147,7 +147,7 @@
 					},								
 					{	
 						"key": "13",
-						"img": "/static/media/mens_13.webp",
+						"img": "../assets/images/products/mens_13.webp",
 						"description": "Summer thin section loose hundred short-sleeved men fashion gradient series of teenagers printed round neck T-shirt",
 						"material": "coton",
 						"color": "blue",
@@ -159,7 +159,7 @@
 					},
 					{	
 						"key": "14",
-						"img": "/static/media/mens_14.webp",
+						"img": "../assets/images/products/mens_14.webp",
 						"description": "New summer men's 3D print pattern T-shirt loose casual clothes short-sleeved fashion trend round neck tops",
 						"material": "coton",
 						"color": "red",
@@ -171,7 +171,7 @@
 					},
 					{	
 						"key": "15",
-						"img": "/static/media/mens_15.webp",
+						"img": "../assets/images/products/mens_15.webp",
 						"description": "Summer hot sale Castrol retro short-sleeved men's T-shirt 3D printing ethnic alphabet Harajuku fashion T-shirt men's collar top",
 						"material": "coton",
 						"color": "green",
@@ -183,7 +183,7 @@
 					},
 										{	
 						"key": "16",
-						"img": "/static/media/mens_16.webp",
+						"img": "../assets/images/products/mens_16.webp",
 						"description": "Direct Deal USSTOCK Mens Summer Shorts Gym Sport Running Workout Cargo Pants Jogger Trousers",
 						"material": "poliester",
 						"color": "beige",
@@ -195,7 +195,7 @@
 					},																													
 					{	
 						"key": "17",
-						"img": "/static/media/mens_17.webp",
+						"img": "../assets/images/products/mens_17.webp",
 						"description": "2022 Summer Casual Shorts Solid Color Letters Multi-Pocket Fashion Men Work Shorts Plus Size Beach Cargo Shorts M-7Xl",
 						"material": "poliester",
 						"color": "black",
@@ -207,7 +207,7 @@
 					},
 					{	
 						"key": "18",
-						"img": "/static/media/mens_18.webp",
+						"img": "../assets/images/products/mens_18.webp",
 						"description": "White Shorts Men Japanese Style Polyester Running Sport Shorts for Men Casual Summer Elastic Waist Solid Shorts Printed Clothing",
 						"material": "poliester",
 						"color": "white",
@@ -219,7 +219,7 @@
 					},
 					{	
 						"key": "19",
-						"img": "/static/media/mens_19.webp",
+						"img": "../assets/images/products/mens_19.webp",
 						"description": "Trendyol Men 'S Regular Fit Shorts & Bermuda TMNSS21SR0046",
 						"material": "poliester",
 						"color": "grey",
@@ -231,7 +231,7 @@
 					},
 					{	
 						"key": "20",
-						"img": "/static/media/mens_20.jpg",
+						"img": "../assets/images/products/mens_20.jpg",
 						"description": "Men's Summer Breeches Shorts 2021 Cotton Casual Bermudas Black Men Boardshorts Homme Classic Brand Clothing Beach Shorts Male",
 						"material": "coton",
 						"color": "grey",
@@ -247,7 +247,7 @@
 		{"women": [
 					{
 						"key": "21",
-						"img": "/static/media/women_1.webp",
+						"img": "../assets/images/products/women_1.webp",
 						"description": "2022 Women Warm Sweater Winter O-Neck Loose Cotton Knitted Long Sweater Pullover Casual Oversize Tops",
 						"material": "coton",
 						"color": "pink",
@@ -259,7 +259,7 @@
 					},
 					{
 						"key": "22",
-						"img": "/static/media/women_2.webp",
+						"img": "../assets/images/products/women_2.webp",
 						"description": "YSZWDBLX Sweaters Women Casual V-neck Solid Jumpers Pullovers Spring Autumn Womens Sweater Cashmere Knitwear Bottoming Shirt",
 						"material": "cashmere",
 						"color": "pink",
@@ -271,7 +271,7 @@
 					},
 					{
 						"key": "23",
-						"img": "/static/media/women_3.jpg",
+						"img": "../assets/images/products/women_3.jpg",
 						"description": "Women Cashmere Sweaters 2020 Winter New Double Thickening Round Neck Loose Female Long Sleeve Casual Knit Pullover",
 						"material": "cashmere",
 						"color": "burgundy",
@@ -283,7 +283,7 @@
 					},
 					{
 						"key": "24",
-						"img": "/static/media/women_4.webp",
+						"img": "../assets/images/products/women_4.webp",
 						"description": "2021 Women Sweater Pullover Long Sleeve Top Square Collar Casual Fashion Women's Jumper Sexy Knitted Sweater Women Pullover Tops",
 						"material": "coton",
 						"color": "black",
@@ -295,7 +295,7 @@
 					},
 					{
 						"key": "25",
-						"img": "/static/media/women_5.webp",
+						"img": "../assets/images/products/women_5.webp",
 						"description": "New Autumn Winter Women Ribbed Fitted Turtleneck Pull Sweater Femme Casual Long Sleeve Soft Jumper Stretch Pullover Clothes",
 						"material": "poliester",
 						"color": "orange",
@@ -307,7 +307,7 @@
 					},
 					{
 						"key": "26",
-						"img": "/static/media/women_6.webp",
+						"img": "../assets/images/products/women_6.webp",
 						"description": "Feynzo Women Pant Woman Jeans High Waist Denim Pants Wide Leg Denim Clothing Blue Jeans Vintage Quality Fashion Straight Pants",
 						"material": "texas",
 						"color": "blue",
@@ -319,7 +319,7 @@
 					},
 					{
 						"key": "27",
-						"img": "/static/media/women_7.jpg",
+						"img": "../assets/images/products/women_7.jpg",
 						"description": "Umeko Plus Size Elastic High Waist Jeans Pencil Pants Slim Single Breasted Women Skinny Frayed Denim Trousers Fashion Clothing",
 						"material": "texas",
 						"color": "black",
@@ -331,7 +331,7 @@
 					},
 					{
 						"key": "28",
-						"img": "/static/media/women_8.jpg",
+						"img": "../assets/images/products/women_8.jpg",
 						"description": "Vintage Jeans woman Low Waisted Pockets Trousers Baggy Casual women Denim Cargo Pants Women Straight Hot Korean Jeans 90s",
 						"material": "texas",
 						"color": "grey",
@@ -343,7 +343,7 @@
 					},
 					{
 						"key": "29",
-						"img": "/static/media/women_9.jpg",
+						"img": "../assets/images/products/women_9.jpg",
 						"description": "Winter Fashion Women's Coat New Casual Hooded Zipper Ladies Clothes Cashmere Women Jacket Stitching Plaid Ladies Coats",
 						"material": "wool",
 						"color": "blue",
@@ -355,7 +355,7 @@
 					},
 					{
 						"key": "30",
-						"img": "/static/media/women_10.jpg",
+						"img": "../assets/images/products/women_10.jpg",
 						"description": "Basic Jackets Women Spring Long Sleeve Feminino Outwear Loose BF Harajuku Chic Students All-match New Fashion Cargo Solid Pocket",
 						"material": "poliester",
 						"color": "black",
@@ -367,7 +367,7 @@
 					},
 					{
 						"key": "31",
-						"img": "/static/media/women_11.jpg",
+						"img": "../assets/images/products/women_11.jpg",
 						"description": "Women's Coat Leaves Print Hooded Casual Long Jacket Soft Long Sleeve Oversize Otercoat for Autumn Winter Woman Clothes пальто",
 						"material": "poliester",
 						"color": "green",
@@ -379,7 +379,7 @@
 					},
 					{
 						"key": "32",
-						"img": "/static/media/women_12.webp",
+						"img": "../assets/images/products/women_12.webp",
 						"description": "New Women's White Tshirt Fashion Ladies Bag Printing Short Sleeve T shirt Harajuku Streetwear Soft Tops Woman T-shirt Clothing",
 						"material": "coton",
 						"color": "white",
@@ -391,7 +391,7 @@
 					},
 					{
 						"key": "33",
-						"img": "/static/media/women_13.webp",
+						"img": "../assets/images/products/women_13.webp",
 						"description": "Women's T-shirt Mask Bear Printed Tshirt Female Casual T Shirt Cartoon Bear Harajuku Female Summer Short Sleeved Unisex Top Tees",
 						"material": "coton",
 						"color": "pink",
@@ -403,7 +403,7 @@
 					},
 					{
 						"key": "34",
-						"img": "/static/media/women_14.webp",
+						"img": "../assets/images/products/women_14.webp",
 						"description": "New Hot Kawaii Minnie Mouse T Shirt Cartoon Women Disney Tshirt Funny Top Tee Fashion Female Clothes T-shirts Dropshipping",
 						"material": "coton",
 						"color": "red",
@@ -415,7 +415,7 @@
 					},
 					{
 						"key": "35",
-						"img": "/static/media/women_15.jpg",
+						"img": "../assets/images/products/women_15.jpg",
 						"description": "NEW SUMMER Fashion Casual Wear Women's Round Loose Shirt Sleeve T-shirt Female Harajuku",
 						"material": "coton",
 						"color": "gold",
@@ -427,7 +427,7 @@
 					},
 					{
 						"key": "36",
-						"img": "/static/media/women_16.webp",
+						"img": "../assets/images/products/women_16.webp",
 						"description": "Summer Women Skirt High Waist Pleated Skirt Candy Color Knitted Elastic Mini Skirt Sexy Office Lady Short Skirts",
 						"material": "coton",
 						"color": "orange",
@@ -439,7 +439,7 @@
 					},
 					{
 						"key": "37",
-						"img": "/static/media/women_17.webp",
+						"img": "../assets/images/products/women_17.webp",
 						"description": "White Dots Floral Print Pleated Midi Skirt Women Elastic High Waist Side Pockets Skirts Summer 2021 Elegant Female Bottom",
 						"material": "coton",
 						"color": "orange",
@@ -451,7 +451,7 @@
 					},
 					{
 						"key": "38",
-						"img": "/static/media/women_18.webp",
+						"img": "../assets/images/products/women_18.webp",
 						"description": "High Waist Women White Black Mini Skirt School Girl Uniform Kawaii Pleated Skirt Female Short Skirt Sexy Summer Solid JK Skirts",
 						"material": "coton",
 						"color": "grey",
@@ -463,7 +463,7 @@
 					},
 					{
 						"key": "39",
-						"img": "/static/media/women_19.jpg",
+						"img": "../assets/images/products/women_19.jpg",
 						"description": "Tataria Silk Satin Skirts for Women High Waisted Skirt 2022 Women A-Line Elegant Skirts Summer Pink Midi Skirt New Korean Style",
 						"material": "coton",
 						"color": "golden",
@@ -475,7 +475,7 @@
 					},
 					{
 						"key": "40",
-						"img": "/static/media/women_20.webp",
+						"img": "../assets/images/products/women_20.webp",
 						"description": "Spring Summer Women Chiffon Skirts Vintage High Waist Elastic Patchwork White Black Chic Long Cake A-line Skirt for Student",
 						"material": "coton",
 						"color": "white",
